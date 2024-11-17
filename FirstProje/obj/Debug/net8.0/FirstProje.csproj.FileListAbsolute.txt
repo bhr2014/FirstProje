@@ -1,0 +1,7 @@
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.csproj.AssemblyReference.cache
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.AssemblyInfoInputs.cache
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.AssemblyInfo.cs
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.csproj.CoreCompileInputs.cache
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bahar\source\repos\FirstProje\FirstProje\obj\Debug\net8.0\FirstProje.MvcApplicationPartsAssemblyInfo.cache
